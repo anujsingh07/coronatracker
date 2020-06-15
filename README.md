@@ -4,7 +4,7 @@ Link: https://coronatracker-864c5.web.app/
 
 
 ## Introduction
-This is a code repository for the coivd-19 tracker. 
+This is a code repository for the covid-19 tracker. 
 
 API used: https://covid19.mathdro.id/api
 
